@@ -39,6 +39,6 @@
 |739|[Daily Temperatures](https://github.com/grandyang/leetcode/issues/739)|53.50%|Medium|
 |225|[Implement Stack using Queues](https://github.com/grandyang/leetcode/issues/225)|29.60%|Medium|
 |946|[Validate Stack Sequences](https://github.com/grandyang/leetcode/issues/946)|63.10%|Medium|
-|716|[Max Stack](https://github.com/grandyang/leetcode/issues/716) $|35.50%|Hard|
+|716|[Max Stack](https://github.com/grandyang/leetcode/issues/716) |35.50%|Hard|
 |895|[Maximum Frequency Stack](https://github.com/grandyang/leetcode/issues/895)|56.70%|Hard|
 
