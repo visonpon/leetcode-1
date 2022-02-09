@@ -35,10 +35,15 @@
 |20|[Valid Parentheses](https://github.com/grandyang/leetcode/issues/20)|26.50%|Easy|
 |1021|[Remove Outermost Parentheses](https://github.com/grandyang/leetcode/issues/1021)|79.00%|Easy|
 |496|[Next Greater Element I](https://github.com/grandyang/leetcode/issues/496)|58.80%|Easy|
+|703|[Kth Largest Element in a Stream](https://github.com/grandyang/leetcode/issues/703)|39.60%|Easy|
+|215|[Kth Largest Element in an Array](https://github.com/grandyang/leetcode/issues/215)|27.30%|Medium|
 |503|[Next Greater Element II](https://github.com/grandyang/leetcode/issues/503)|46.20%|Medium|
 |739|[Daily Temperatures](https://github.com/grandyang/leetcode/issues/739)|53.50%|Medium|
 |225|[Implement Stack using Queues](https://github.com/grandyang/leetcode/issues/225)|29.60%|Medium|
 |946|[Validate Stack Sequences](https://github.com/grandyang/leetcode/issues/946)|63.10%|Medium|
+|402|[Remove K Digits](https://github.com/grandyang/leetcode/issues/402)|25.90%|Medium|
 |716|[Max Stack](https://github.com/grandyang/leetcode/issues/716) |35.50%|Hard|
 |895|[Maximum Frequency Stack](https://github.com/grandyang/leetcode/issues/895)|56.70%|Hard|
+|42|[Trapping Rain Water](https://github.com/grandyang/leetcode/issues/42)|30.00%|Hard|
+|239|[Sliding Window Maximum](https://github.com/grandyang/leetcode/issues/239)|24.30%|Hard|
 
