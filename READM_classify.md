@@ -22,3 +22,7 @@
 |442|[Find All Duplicates in an Array](https://github.com/grandyang/leetcode/issues/442)|46.40%|Medium|
 |560|[Subarray Sum Equals K](https://github.com/grandyang/leetcode/issues/560)|41.80%|Medium|
 |718|[Maximum Length of Repeated Subarray](https://github.com/grandyang/leetcode/issues/718)|39.90%|Medium|
+|4|[Median of Two Sorted Arrays](https://github.com/grandyang/leetcode/issues/4)|17.40%|Hard|
+|33|[Search in Rotated Sorted Array](https://github.com/grandyang/leetcode/issues/33)|28.80%|Hard|
+|805|[Split Array With Same Average](https://github.com/grandyang/leetcode/issues/805)|21.00%|Hard|
+|862|[Shortest Subarray with Sum at Least K](https://github.com/grandyang/leetcode/issues/862)|22.00%|Hard|
