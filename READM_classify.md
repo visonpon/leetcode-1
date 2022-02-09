@@ -1,8 +1,10 @@
 ## leetcode分类
 
 ## 数组
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
 
-* |26|[Remove Duplicates from Sorted Array](https://github.com/grandyang/leetcode/issues/26)|31.30%|Easy|
+|26|[Remove Duplicates from Sorted Array](https://github.com/grandyang/leetcode/issues/26)|31.30%|Easy|
 * 80 	Remove Duplicates from Sorted Array II    |   Medium
 * 283 Move Zeroes (Easy)
 * 566 Reshape the Matrix (Easy)
