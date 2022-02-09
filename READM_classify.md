@@ -26,3 +26,19 @@
 |33|[Search in Rotated Sorted Array](https://github.com/grandyang/leetcode/issues/33)|28.80%|Hard|
 |805|[Split Array With Same Average](https://github.com/grandyang/leetcode/issues/805)|21.00%|Hard|
 |862|[Shortest Subarray with Sum at Least K](https://github.com/grandyang/leetcode/issues/862)|22.00%|Hard|
+
+## 堆
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|155|[Min Stack](https://github.com/grandyang/leetcode/issues/155)|18.50%|Easy|
+|232|[Implement Queue using Stacks](https://github.com/grandyang/leetcode/issues/232)|37.40%|Easy|
+|20|[Valid Parentheses](https://github.com/grandyang/leetcode/issues/20)|26.50%|Easy|
+|1021|[Remove Outermost Parentheses](https://github.com/grandyang/leetcode/issues/1021)|79.00%|Easy|
+|496|[Next Greater Element I](https://github.com/grandyang/leetcode/issues/496)|58.80%|Easy|
+|503|[Next Greater Element II](https://github.com/grandyang/leetcode/issues/503)|46.20%|Medium|
+|739|[Daily Temperatures](https://github.com/grandyang/leetcode/issues/739)|53.50%|Medium|
+|225|[Implement Stack using Queues](https://github.com/grandyang/leetcode/issues/225)|29.60%|Medium|
+|946|[Validate Stack Sequences](https://github.com/grandyang/leetcode/issues/946)|63.10%|Medium|
+|716|[Max Stack](https://github.com/grandyang/leetcode/issues/716) $|35.50%|Hard|
+|895|[Maximum Frequency Stack](https://github.com/grandyang/leetcode/issues/895)|56.70%|Hard|
+
