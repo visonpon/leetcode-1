@@ -2,8 +2,8 @@
 
 ## 数组
 
-* 26 	Remove Duplicates from Sorted Array |	Easy
-* 80 	Remove Duplicates from Sorted Array II 	|	Medium
+* |26|[Remove Duplicates from Sorted Array](https://github.com/grandyang/leetcode/issues/26)|31.30%|Easy|
+* 80 	Remove Duplicates from Sorted Array II    |   Medium
 * 283 Move Zeroes (Easy)
 * 566 Reshape the Matrix (Easy)
 * 485 Max Consecutive Ones (Easy)
