@@ -3,7 +3,7 @@
 ## 数组
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|26|[Remove Duplicates from Sorted Array](https://github.com/grandyang/leetcode/issues/26)|31.30%|Easy|
+|26|[Remove Duplicates from Sorted Array | ](https://github.com/grandyang/leetcode/issues/26)|31.30%|Easy|
 |80|[Remove Duplicates from Sorted Array II](https://github.com/grandyang/leetcode/issues/80)|30.50%|Medium|
 |88|[Merge Sorted Array](https://github.com/grandyang/leetcode/issues/88)|29.70%|Easy|
 |189|[Rotate Array](https://github.com/grandyang/leetcode/issues/189)|17.80%|Easy|
